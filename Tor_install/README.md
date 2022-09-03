@@ -1,7 +1,7 @@
 # Tor project
 
 - *Here is the installation file for all os by Tor version. If your country has blocked 'torproject.org', download it here.*
-
+<br>
 
 - **How to run a split files - Linux**
 
@@ -15,7 +15,7 @@
 
 4. ./start-tor-browser.desktop or 'run tor'
 
-
+<br>
 
 - **How to run a split files - Mac**
 
@@ -25,12 +25,12 @@
 
 2. run dmg file
 
-
+<br>
 - **Window**
 
 0. download .exe file and run .exe file
 
-
+<br>
 - **Android**
 
 0. download apk file that suits you
