@@ -26,11 +26,13 @@
 2. run dmg file
 
 <br>
+
 - **Window**
 
 0. download .exe file and run .exe file
 
 <br>
+
 - **Android**
 
 0. download apk file that suits you
