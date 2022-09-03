@@ -2,7 +2,7 @@
 
 - *Here is the installation file for all os by Tor version. If your country has blocked 'torproject.org', download it here.*
 
-**How to run a split files - Linux**
+**- How to run a split files - Linux**
 
 0. download torlinux_aa, torlinux_ab (2files)
 
@@ -15,7 +15,7 @@
 4. ./start-tor-browser.desktop or 'run tor'
 
 
-**How to run a split files - Mac**
+**- How to run a split files - Mac**
 
 0. download tormac_aa, tormac_ab (2files)
 
@@ -23,11 +23,11 @@
 
 2. run dmg file
 
-**Window**
+**- Window**
 
 0. download .exe file and run .exe file
 
-**Android**
+**- Android**
 
 0. download apk file that suits you
 
